@@ -1,0 +1,29 @@
+.group-child1 {
+  position: absolute;
+  top: 25px;
+  left: 4.52px;
+}
+.group-child1,
+.group-child2 {
+  width: 50px;
+  height: 50px;
+}
+.group-child2,
+.group-child3 {
+  position: absolute;
+}
+.group-child2 {
+  top: 0;
+  left: 2.39px;
+}
+.group-child3 {
+  top: 13.96px;
+  left: 0;
+  width: 15.14px;
+  height: 26.42px;
+}
+.ellipse-top {
+  position: relative;
+  width: 100%;
+  height: 50px;
+}

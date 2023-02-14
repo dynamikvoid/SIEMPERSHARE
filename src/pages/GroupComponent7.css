@@ -1,0 +1,22 @@
+.group-child10,
+.group-child11,
+.group-child12 {
+  position: absolute;
+  top: 50px;
+  height: 100px;
+  left: 50px;
+  width: 100px;
+}
+.group-child11,
+.group-child12 {
+  top: 0;
+}
+.group-child12 {
+  left: 0;
+  width: 50px;
+}
+.ellipse-frame {
+  position: relative;
+  width: 100%;
+  height: 100px;
+}
